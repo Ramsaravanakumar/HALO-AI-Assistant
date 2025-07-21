@@ -24,8 +24,6 @@ An advanced AI voice assistant built with Python that responds to voice commands
 
 ➤ Voice activation & command execution
 
-➤ Wikipedia search & web browsing  
-
 ➤ Weather update integration  
 
 ➤ Play music and open websites 
